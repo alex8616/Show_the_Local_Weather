@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://i.ibb.co/ySRQPnV/fondo.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+  }
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-size:small;
+}
+#icon{
+    width: 100px;
+}
+.card-group{
+    width: 50%;
+}
+#titulo{
+    background-color: black;
+    padding: 20px;
+}
